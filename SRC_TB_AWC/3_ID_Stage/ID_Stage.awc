@@ -1,0 +1,56 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="LOCAL___ff02af5e912f59410300">ID_Stage.asdb</database>
+    </databases>
+    <signallists>
+        <signallist id="0">
+        <signal>/ID_Stage_tb/CLK</signal>
+        <signal>/ID_Stage_tb/I_W_EN</signal>
+        <signal>/ID_Stage_tb/O_W_EN</signal>
+        <signal>/ID_Stage_tb/I_DataIn</signal>
+        <signal>/ID_Stage_tb/O_regA_Data</signal>
+        <signal>/ID_Stage_tb/O_regB_Data</signal>
+        <signal>/ID_Stage_tb/O_regC_Data</signal>
+        <signal>/ID_Stage_tb/O_regA</signal>
+        <signal>/ID_Stage_tb/O_regB</signal>
+        <signal>/ID_Stage_tb/O_regC</signal>
+        <signal>/ID_Stage_tb/O_regD</signal>
+        <signal>/ID_Stage_tb/I_regD</signal>
+        <signal>/ID_Stage_tb/O_ALUop</signal>
+        <signal>/ID_Stage_tb/Instruction</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="1021622" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="350691" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
