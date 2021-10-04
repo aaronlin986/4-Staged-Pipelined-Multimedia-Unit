@@ -1,0 +1,4 @@
+# 4-Staged-Pipelined-Multimedia-Unit
+---
+## Description
+This project was conducted for a Computer Architecture course (ESE 345) in Stony Brook University. The project was done in detail from system design in the beginning, to the testing of the fully implemented system in the end. The repository contains files showing the drawing of the system design as well as a cleaner schematic created from software. The details of the project are further organized into two folders, Assembler and SRC_TB_AWC. Assembler contains the Python code used to convert assembly language into machine language that the system is supposed to understand and take as input. SRC_TB_AWC contains the source code, testbench code, and the results and waveform from each component of the system. The system architecture consists of 4 stages, Instruction Fetch, Instruction Decode, Execution, and Write Back.  
